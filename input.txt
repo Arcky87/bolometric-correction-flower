@@ -1,0 +1,4 @@
+temp 10000
+temp 8000
+temp 14000
+temp 17000
